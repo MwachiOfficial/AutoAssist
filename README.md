@@ -14,9 +14,6 @@ Clone the repository:
 ## cd AutoAssist
 ## Set up the virtual environment:
 
-
-python -m venv venv
-
 Install dependencies:
 
 
