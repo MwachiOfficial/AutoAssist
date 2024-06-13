@@ -11,7 +11,7 @@ Installation
 Clone the repository:
 
 
-## cd Auto--Assist
+## cd AutoAssist
 ## Set up the virtual environment:
 
 
